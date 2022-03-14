@@ -1,0 +1,14 @@
+.card {
+    display: inline-block;
+    transition: all 1s;
+    width: auto;
+    margin: 15px;
+}
+
+.navbar-brand {
+    color: blue;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
